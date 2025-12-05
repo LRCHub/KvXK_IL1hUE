@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "超える",
+  "base_artist": "[Alexandros]",
+  "createdAt": "2025-12-05T17:28:42.802257Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "超える",
+      "artist": "[Alexandros]",
+      "has_synced": true,
+      "path": "select/01_超える_[Alexandros].lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "超える - Koeru",
+      "artist": "[Alexandros]",
+      "has_synced": true,
+      "path": "select/02_超える_-_Koeru_[Alexandros].lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "超える",
+      "artist": "[Alexandros]",
+      "has_synced": false,
+      "path": "select/pl_01_超える_[Alexandros].txt"
+    }
+  ]
+}
